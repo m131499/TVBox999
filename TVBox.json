@@ -151,7 +151,7 @@
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
 //自定义jar
-"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.jar;md5;ED4C40F5240402756E9333FBEE23631C",
+"spider":"https://raw.github.com/m131499/TVBox999/blob/main/不良帅.jar;md5;DFCC0758095DE91CA940EF4AFB98236B",
 //"spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;A31253A7F79B34D1F62176740A1F9954",
 
 //壁纸
